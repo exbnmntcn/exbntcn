@@ -50,4 +50,14 @@ var questions = [
         ],
         explanation: "В тото хокей 5 матчей",
     },
+    { 
+        question: "Что входит в расчёт  ТОТО Хокей ?",
+        answers: [
+            { text: "7", correct: false },
+            { text: "5", correct: false },
+            { text: "8", correct: false },
+            { text: "основное время", correct: true }
+        ],
+        explanation: "В расчёт тото хокей входит основное время",
+    },
 ];
